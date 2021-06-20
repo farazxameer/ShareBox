@@ -52,7 +52,7 @@ handleLogout = async event => {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to="/">ShareBox Test</Link>
+              <Link to="/">ShareBox</Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
