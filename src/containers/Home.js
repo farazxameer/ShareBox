@@ -78,7 +78,7 @@ export default class Home extends Component {
                          <h4>Name</h4>
                        </Col>
                        <Col xs={6} sm={4} md={4} lg={2} >
-                         <h4>Created On</h4>
+                         <h4>Test</h4>
                        </Col>
                        <Col xs={3} sm={2} md={2} lg={2}>
                       </Col>
